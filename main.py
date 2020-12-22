@@ -1,5 +1,5 @@
 def name():
-    return "Dwight"
+    return "Isaac"
 print (name())
 
 def favorites(a, b):
