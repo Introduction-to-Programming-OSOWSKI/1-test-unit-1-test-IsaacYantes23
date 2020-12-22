@@ -1,6 +1,6 @@
-def name():
-    return "Isaac"
-print (name())
+def name(Isaac):
+    return Isaac
+print (name('Isaac'))
 
 def favorites(a, b):
     return a + " " + b
